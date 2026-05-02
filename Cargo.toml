@@ -1,0 +1,13 @@
+[package]
+name = "flodata"
+version = "0.1.0"
+edition = "2021"
+description = "Fluent OData — a type-safe, composable OData query builder for Rust"
+license = "MIT"
+readme = "README.md"
+keywords = ["odata", "query", "builder", "rest", "api"]
+categories = ["web-programming", "api-bindings"]
+
+[dependencies]
+
+[dev-dependencies]
